@@ -58,3 +58,7 @@
 <p align="center">
   <i>“Building elegant apps with clean code and meaningful UX.”</i>
 </p>
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdelrahmanAhmed7/AbdelrahmanAhmed7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
