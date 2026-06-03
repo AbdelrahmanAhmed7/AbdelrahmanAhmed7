@@ -49,11 +49,35 @@
 <!-- =============================== -->
 ### 🚀 Published Projects
 
-| App | Platform | Tech | Status |
-|-----|----------|------|--------|
-| **MCI Egypt** | iOS | Flutter + Codemagic | ✅ App Store |
-| **MediCard** | Android | Flutter | ✅ Google Play |
-| **HR App** (Arabic RTL) | Android | Flutter + BLoC | 🏢 Internal (Hospital Staff) |
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <b>MCI Egypt</b><br/>
+      <sub>Flutter • Clean Arch • BLoC</sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.khusm.mciegypt">
+        <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white" />
+      </a>
+      <br/>
+      <a href="https://apps.apple.com/us/app/mci-egypt/id6761891501">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <b>MediCard</b><br/>
+      <sub>Flutter • Firebase • REST API</sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.khusm.medicard">
+        <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/App_Store-Coming_Soon-lightgrey?style=flat-square&logo=app-store&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <b>HR App (Arabic RTL)</b><br/>
+      <sub>Flutter • BLoC • Arabic UI</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Internal-Hospital_Staff-009688?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,19 +88,21 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAhmed7&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    alt="GitHub stats" 
+    src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAhmed7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="GitHub stats"
+    height="165"
   />
   <img 
-    src="https://streak-stats.demolab.com?user=AbdelrahmanAhmed7&theme=tokyonight&cache_seconds=1800" 
-    alt="GitHub streak" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAhmed7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+    alt="Top languages"
+    height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAhmed7&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" 
-    alt="Top languages" 
+    src="https://streak-stats.demolab.com?user=AbdelrahmanAhmed7&theme=tokyonight&hide_border=true" 
+    alt="GitHub streak" 
   />
 </p>
 
