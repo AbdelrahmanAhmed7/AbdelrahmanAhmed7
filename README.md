@@ -64,7 +64,7 @@
     </td>
     <td align="center" width="200">
       <b>MediCard</b><br/>
-      <sub>Flutter • Firebase • REST API</sub><br/><br/>
+      <sub>Kotlin Multiplatform • Compose MP</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.khusm.medicard">
         <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white" />
       </a>
